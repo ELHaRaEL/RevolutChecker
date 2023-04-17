@@ -1,0 +1,36 @@
+﻿namespace RevolutChecker
+{
+    public enum RevolutCurriencies
+    {
+        AED,
+        AUD,
+        BGN,
+        CAD,
+        CHF,
+        CZK,
+        DKK,
+        EUR,
+        GBP,
+        HKD,
+        HUF,
+        ILS,
+        ISK,
+        JPY,
+        MAD,
+        MXN,
+        NOK,
+        NZD,
+        PLN,
+        QAR,
+        RON,
+        RSD,
+        SAR,
+        SEK,
+        SGD,
+        THB,
+        TRY,
+        USD,
+        ZAR,
+        ALL
+    }
+}
